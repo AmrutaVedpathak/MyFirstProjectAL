@@ -36,6 +36,6 @@ pageextension 50118 ItemCardExt extends "Item card"
     end;
 
     var
-        RecItem1: Record Item;
+        RecItem2: Record Item;
         RecItem: Record Item;
 }
